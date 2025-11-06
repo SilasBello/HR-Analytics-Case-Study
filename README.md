@@ -6,13 +6,13 @@ A Power BI report analyzing workforce demographics, attrition, performance, comp
 
 ## ✅ Key Features
 **Dashboard 1 — Workforce Overview**
-! [Dashboard 1 Snapshot](visuals/workforce_overview_dashboard_ss.png)
+![Dashboard 1 Snapshot](visuals/workforce_overview_dashboard_ss.png)
 - Workforce distribution (age, department)
 - Attrition by department & tenure
 - YoY employee count (KPI)
 
 **Dashboard 2 — Performance & Pay**
-! [Dashboard 2 Snapshot](visuals/performance_&_pay_dashboard_ss.png)
+![Dashboard 2 Snapshot](visuals/performance_&_pay_dashboard_ss.png)
 - Avg salary by department
 - Salary vs performance (scatter)
 - Remote vs onsite comparison
